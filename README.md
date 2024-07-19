@@ -12,7 +12,7 @@ This Flutter project simulates a Windows error collection screen, providing a dy
 
 ## Screenshot
 
-![Windows Error Collection Screen](path/to/your/screenshot.png)
+![Windows Error Collection Screen](https://github.com/ananidze/windows_error_collection_screen_ui/blob/main/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20Max%20-%202024-07-20%20at%2000.49.42.png)
 
 ## Getting Started
 
